@@ -20,3 +20,13 @@ The goal of the project was to create a piece of assistive technology that, as t
 * Fishing line
 
 All of the technological components were limited by what was provided in the subject.
+
+# Credit
+Finger STL:
+This project uses a modified version of the 'FingerIndexV4.stl' by InMoov's Gaël Langevin, which is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/. The original work can be found https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Finger-starter-kit. The modifications made were to remove the numbering on the fingers and to reduce the pulley mechanism size to fit better onto our hands, also hole sizes for knuckles were decreased to user paperclips as joint axels.
+
+Designing in Fusion 360:
+This project makes use of Autodesk Fusion 360, Educational Licence for 3D modeling and design aspects. Fusion 360 is a powerful CAD/CAM software tool that has been instrumental in developing the 3D models used in this project. It was used to design the "Finger and Pulley" STL.
+
+Learning Git and Licensing:
+OpenAI. (2024). ChatGPT(Jan 10) [Large Language Model]. https://chat.openai.com
