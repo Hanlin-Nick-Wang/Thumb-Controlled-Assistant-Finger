@@ -22,6 +22,9 @@ The goal of the project was to create a piece of assistive technology that, as t
 All of the technological components were limited by what was provided in the subject.
 
 # Credit
+Code Library:
+This projext uses the library "MMA7660.h" by Seeed Technology's Frankie Chu, which is licensed under the MIT License (MIT). To view a copy of this license, visit https://choosealicense.com/licenses/mit/. The original library can be found at https://github.com/Seeed-Studio/Accelerometer_MMA7660/blob/master/MMA7660.cpp.
+
 Finger STL:
 This project uses a modified version of the 'FingerIndexV4.stl' by InMoov's Gaël Langevin, which is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/. The original work can be found https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Finger-starter-kit. The modifications made were to remove the numbering on the fingers and to reduce the pulley mechanism size to fit better onto our hands, also hole sizes for knuckles were decreased to user paperclips as joint axels.
 
